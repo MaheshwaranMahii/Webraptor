@@ -60,7 +60,7 @@ export function ReconnaissanceReport({ report, target, reportType = "fallback" }
                 }}
               />
               Web Raptor Reconnaissance Report
-              <span className="text-xs text-slate-400 ml-2">by Maheshwaran</span>
+              <span className="text-xs text-slate-400 ml-2">by Trojen Hex</span>
             </CardTitle>
             <CardDescription className="text-slate-400">Comprehensive analysis for {target}</CardDescription>
           </div>

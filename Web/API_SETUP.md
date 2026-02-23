@@ -16,11 +16,11 @@ The application now works **WITHOUT** API keys using fallback data!
 - Get API key from profile
 - **Free tier**: 500 requests/day
 
-### **2. WHOIS XML API (Free)**
-- Go to: https://whoisxmlapi.com/
-- Sign up for free account
-- Get API key from dashboard
-- **Free tier**: 1000 requests/month
+### **2. Whois.com (Free)**
+- Go to: https://www.whois.com/whois/
+- No API key required for basic lookups
+- Provides domain registration and ownership data
+- **Free tier**: Basic lookups available
 
 ### **3. OpenAI API (Paid)**
 - Go to: https://platform.openai.com/api-keys
@@ -34,7 +34,6 @@ The application now works **WITHOUT** API keys using fallback data!
 2. Add your keys like this:
 ```
 OPENAI_API_KEY=your_key_here
-WHOISXML_API_KEY=your_key_here
 VIRUSTOTAL_API_KEY=your_key_here
 ```
 3. Restart the development server

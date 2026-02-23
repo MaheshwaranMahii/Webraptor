@@ -276,7 +276,7 @@ export default function WebRaptorDashboard() {
                 </div>
 
                 <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gradient leading-tight">
-                  Web Reconnaissance Platform
+                   Web Attack Surface Discovery Platform
                 </h1>
                 <p className="text-lg sm:text-xl text-gray-300 max-w-3xl mx-auto leading-relaxed">
                   Professional-grade web reconnaissance and threat intelligence gathering with real-time analysis and

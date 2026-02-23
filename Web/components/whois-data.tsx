@@ -16,7 +16,7 @@ export function WhoisData({ data, errors }: WhoisDataProps) {
         <CardHeader>
           <CardTitle className="flex items-center gap-2 text-slate-100">
             <Globe className="h-5 w-5 text-cyan-400" />
-            WHOIS Intelligence
+            Whois.com
           </CardTitle>
           <CardDescription className="text-slate-400">Domain registration and ownership data</CardDescription>
         </CardHeader>
@@ -36,7 +36,7 @@ export function WhoisData({ data, errors }: WhoisDataProps) {
         <CardHeader>
           <CardTitle className="flex items-center gap-2 text-slate-100">
             <Globe className="h-5 w-5 text-cyan-400" />
-            WHOIS Intelligence
+            Whois.com
           </CardTitle>
           <CardDescription className="text-slate-400">Domain registration and ownership data</CardDescription>
         </CardHeader>
@@ -120,7 +120,7 @@ export function WhoisData({ data, errors }: WhoisDataProps) {
       <CardHeader>
         <CardTitle className="flex items-center gap-2 text-slate-100">
           <Globe className="h-5 w-5 text-cyan-400" />
-          WHOIS Intelligence
+          Whois.com
         </CardTitle>
         <CardDescription className="text-slate-400">Domain registration and ownership data</CardDescription>
       </CardHeader>

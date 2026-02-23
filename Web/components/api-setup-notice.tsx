@@ -53,7 +53,7 @@ export function APISetupNotice() {
                 <div className="status-dot status-online"></div>
                 <div className="flex items-center gap-2">
                   <Server className="h-4 w-4 text-cyan-400" />
-                  <strong className="text-white">WHOIS XML</strong>
+                  <strong className="text-white">Whois.com</strong>
                 </div>
                 <Badge className="ml-auto bg-green-500/10 text-green-400 border-green-500/20 text-xs">Active</Badge>
               </div>

@@ -34,10 +34,10 @@ export function ComplianceFooter() {
             <div>Web Raptor v2.0 | Web Reconnaissance Platform</div>
             <div className="flex items-center justify-center gap-2">
               <span>Developed by</span>
-              <span className="text-cyan-400 font-semibold">Maheshwaran</span>
+              <span className="text-cyan-400 font-semibold">Trojen Hex</span>
               <img
                 src="/shuriken-logo.svg"
-                alt="Maheshwaran logo"
+                alt="Trojen Hex logo"
                 className="h-3 w-3 inline-block"
                 style={{
                   filter:

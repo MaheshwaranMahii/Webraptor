@@ -47,7 +47,7 @@ export function MobileNavigation({ isOpen, onClose }: MobileNavigationProps) {
               />
               <div>
                 <h2 className="text-lg font-bold text-white">Web Raptor</h2>
-                <p className="text-xs text-gray-400">by Maheshwaran</p>
+                <p className="text-xs text-gray-400">by Trojen Hex</p>
               </div>
             </div>
             <Button variant="ghost" size="sm" onClick={onClose} className="focus-ring">
@@ -138,7 +138,7 @@ export function MobileNavigation({ isOpen, onClose }: MobileNavigationProps) {
                 <Mail className="h-4 w-4" />
               </Button>
             </div>
-            <p className="text-xs text-gray-500 text-center mt-3">© 2024 Maheshwaran. All rights reserved.</p>
+            <p className="text-xs text-gray-500 text-center mt-3">© 2024 Trojen Hex. All rights reserved.</p>
           </div>
         </div>
       </div>
